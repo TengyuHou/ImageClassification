@@ -15,3 +15,5 @@
 Gaze Detection, June 03–05, 2018, Woodstock, NY. ACM, New York,NY,USA, 3 pages. https://doi.org/10.1145/1122445.1122456
 
 [2] Vishunu Subramanian.Deep learning with Pytorch.
+
+<div align=center><img width="150" height="150" src="https://user-images.githubusercontent.com/86160178/122648539-5220a680-d15c-11eb-976b-d51d34a9c171.png"/></div>
