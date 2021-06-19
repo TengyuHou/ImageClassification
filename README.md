@@ -12,4 +12,5 @@
 # Reference
 [1] Zhengyi Ma. 2018. Methods Of Classification Implemented In MNIST Recognition. In Woodstock ’18: ACM Symposium on Neural
 Gaze Detection, June 03–05, 2018, Woodstock, NY. ACM, New York,NY,USA, 3 pages. https://doi.org/10.1145/1122445.1122456
+
 [2] Vishunu Subramanian.Deep learning with Pytorch.
