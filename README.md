@@ -1,6 +1,6 @@
 # Classfier: 
 ## Logistic
-   ![image](https://user-images.githubusercontent.com/86160178/122648539-5220a680-d15c-11eb-976b-d51d34a9c171.png)
+![image](https://user-images.githubusercontent.com/86160178/122648539-5220a680-d15c-11eb-976b-d51d34a9c171.png)
 ## MLP
 ## CNN
 ![image](https://user-images.githubusercontent.com/86160178/122648601-8dbb7080-d15c-11eb-827b-27a5c50245f4.png)
