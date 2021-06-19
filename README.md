@@ -7,7 +7,8 @@
 ## VGG19
 ## ResNet18
 # Result
-![image](https://user-images.githubusercontent.com/86160178/122648740-19cd9800-d15d-11eb-8540-c97820777fb6.png)
+![image](https://user-images.githubusercontent.com/86160178/122648883-b6903580-d15d-11eb-819e-91911a136ebd.png)
+
 ![image](https://user-images.githubusercontent.com/86160178/122648458-ffdf8580-d15b-11eb-8720-1942aea3569e.png)
 # Reference
 [1] Zhengyi Ma. 2018. Methods Of Classification Implemented In MNIST Recognition. In Woodstock ’18: ACM Symposium on Neural
