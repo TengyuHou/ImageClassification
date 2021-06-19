@@ -7,14 +7,12 @@
 ## VGG19
 ## ResNet18
 # Result
-![image](https://user-images.githubusercontent.com/86160178/122648883-b6903580-d15d-11eb-819e-91911a136ebd.png)
+<div align=center><img width="1409" height="910" src="https://user-images.githubusercontent.com/86160178/122649300-cd378c00-d15f-11eb-939a-1ee193ac7f9d.png"/></div>
 
-![image](https://user-images.githubusercontent.com/86160178/122648921-dd4e6c00-d15d-11eb-9aae-0eb0fd7ea5d4.png)
+<div align=center><img width="1020" height="350" src="https://user-images.githubusercontent.com/86160178/122649238-834ea600-d15f-11eb-877b-e637e2adda40.png"/></div>
 # Reference
 [1] Zhengyi Ma. 2018. Methods Of Classification Implemented In MNIST Recognition. In Woodstock ’18: ACM Symposium on Neural
 Gaze Detection, June 03–05, 2018, Woodstock, NY. ACM, New York,NY,USA, 3 pages. https://doi.org/10.1145/1122445.1122456
 
 [2] Vishunu Subramanian.Deep learning with Pytorch.
-
-<div align=center><img width="1020" height="350" src="https://user-images.githubusercontent.com/86160178/122649238-834ea600-d15f-11eb-877b-e637e2adda40.png"/></div>
 
